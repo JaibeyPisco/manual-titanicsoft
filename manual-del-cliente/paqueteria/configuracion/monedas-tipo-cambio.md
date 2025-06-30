@@ -1,0 +1,2 @@
+# 💵 MONEDAS / TIPO CAMBIO
+
