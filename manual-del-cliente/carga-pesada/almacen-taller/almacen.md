@@ -4,7 +4,7 @@
 
 Un **almacén** es un espacio físico donde se almacenan los **repuestos y demás artículos** utilizados por la empresa.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -12,14 +12,14 @@ Un **almacén** es un espacio físico donde se almacenan los **repuestos y demá
 
 1. Presiona el botón **"Nuevo"**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1.  Completa los siguientes campos:
 
     * 🏷️ **Nombre del almacén** _(obligatorio)_
     * 🗒️ **Observación** _(opcional)_
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 2. Haz clic en **"Guardar"**.
 
 ***

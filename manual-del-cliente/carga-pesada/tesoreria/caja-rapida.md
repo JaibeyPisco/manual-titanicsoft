@@ -4,7 +4,7 @@
 
 El módulo **Caja Rápida** permite registrar egresos de manera directa e inmediata, sin pasar por procesos de autorización o validación. Es ideal para operaciones simples, donde la asignación de dinero debe ser inmediata, como anticipos a conductores u operaciones urgentes.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -49,7 +49,7 @@ Menú lateral > **Tesorería > Caja Rápida**
 3. Presiona **Guardar** para registrar la salida de dinero.
 4. El sistema lo marcará como **procesado** automáticamente.
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

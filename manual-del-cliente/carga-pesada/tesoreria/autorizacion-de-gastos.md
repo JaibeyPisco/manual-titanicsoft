@@ -39,7 +39,7 @@ Cada solicitud puede gestionarse de tres maneras:
 5. Haz clic en **Autorizar Ahora**.
 6. El estado pasará a **Procesado**, permitiendo continuar con el pago.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -52,7 +52,7 @@ Cada solicitud puede gestionarse de tres maneras:
 
 > Útil cuando el área de tesorería debe ajustar el importe antes de autorizar.
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

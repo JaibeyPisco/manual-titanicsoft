@@ -4,7 +4,7 @@
 
 Los **artículos** representan los elementos que maneja tu empresa como **repuestos u otros insumos**. El proceso de registro es sencillo.
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -17,7 +17,7 @@ Antes de registrar artículos, asegúrate de tener creados los siguientes elemen
 * 🧩 Líneas y sublíneas
 * 🏷️ Tipos de artículo
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -25,7 +25,7 @@ Antes de registrar artículos, asegúrate de tener creados los siguientes elemen
 
 1. Presiona el botón **"Nuevo"**.
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 2. Completa el formulario con la siguiente información:
 
@@ -39,7 +39,7 @@ Antes de registrar artículos, asegúrate de tener creados los siguientes elemen
 * 📉 **Stock mínimo**
 * 🛠️ **Almacén asignado** (por ejemplo: Taller)
 
-<figure><img src="../../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

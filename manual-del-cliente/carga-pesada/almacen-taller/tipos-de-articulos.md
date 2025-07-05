@@ -6,7 +6,7 @@ El **tipo de artículo** permite **clasificar los insumos** según su naturaleza
 
 > Ejemplo: _Llantas, lubricantes, herramientas, etc._
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -14,12 +14,12 @@ El **tipo de artículo** permite **clasificar los insumos** según su naturaleza
 
 1. Presiona el botón **"Nuevo"**.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2. Completa los siguientes campos:
 
 * 🏷️ **Nombre del tipo de artículo** _(obligatorio)_
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 3. Haz clic en **"Guardar"**.

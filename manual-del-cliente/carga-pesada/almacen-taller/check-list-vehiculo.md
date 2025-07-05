@@ -9,7 +9,7 @@ El módulo “Checklist Vehicular” permite registrar de manera digital la insp
 Desde el panel izquierdo, ir a:\
 **Almacén / Taller → Check list vehículo**
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -37,7 +37,7 @@ Desde el panel izquierdo, ir a:\
 
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 5. Una vez completado el registro, hacer clic en **“Guardar”**.
 
@@ -53,7 +53,7 @@ En la pantalla principal del módulo se pueden consultar los registros anteriore
 
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -69,9 +69,9 @@ Al registrar un control, el sistema genera un **formato imprimible** donde se de
 \
 
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
