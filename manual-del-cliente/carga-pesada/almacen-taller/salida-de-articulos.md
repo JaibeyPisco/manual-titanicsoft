@@ -11,8 +11,7 @@ El módulo **Salida de Artículos** permite registrar la entrega o asignación d
 Desde el menú lateral, ingresar a:\
 **Almacén / Taller → Salida de Artículos**
 
-📌 _Ver imagen de referencia: \[Imagen 1 – Vista general del módulo]_\
-(Archivo: `f270e9fd-a330-40fd-bfab-aa47602865d5.png`)
+<figure><img src="../../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -22,6 +21,8 @@ Para registrar una salida de artículos:
 
 1. Hacer clic en el botón **“+ Nuevo”**.
 2. Se abrirá el formulario “Nueva Orden de Salida”.
+
+<figure><img src="../../../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 **3.1. Completar la sección Encabezado:**
 
@@ -38,9 +39,6 @@ Para registrar una salida de artículos:
   * **Proveedor**
 * **Mes de Liquidación** _(opcional)_
 
-📌 _Ver imágenes de referencia: \[Imagen 2 y 3 – Formulario de orden de salida]_\
-(Archivos: `acb9cc31-486b-4411-b465-cafd873b9361.png`, `8e9346d1-90e0-41ac-b4aa-10df014b53f9.png`)
-
 ***
 
 **3.2. Completar la sección Detalle:**
@@ -55,8 +53,7 @@ Para registrar una salida de artículos:
    * **Costo unitario**
 3. Puedes agregar una **observación general** si se requiere.
 
-📌 _Ver imagen de referencia: \[Imagen 4 – Agregado de ítems]_\
-(Archivo: `9d6428d6-5d74-4c28-b0f6-73deb5062096.png`)
+<figure><img src="../../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -79,8 +76,7 @@ Este documento incluye:
 * Detalle de los artículos entregados
 * Total valorizado de la entrega
 
-📌 _Ver imagen de referencia: \[Imagen 5 – Formato imprimible de salida]_\
-(Archivo: `95f50d4d-c530-4b25-a2d2-dcf463a8002e.png`)
+<figure><img src="../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -96,8 +92,7 @@ En la vista principal del módulo se listan todas las salidas registradas. Puede
 * Vehículo (si aplica)
 * Importe total
 
-📌 _Ver imagen de referencia: \[Imagen 6 – Registro de salidas almacenadas]_\
-(Archivo: `95f50d4d-c530-4b25-a2d2-dcf463a8002e.png`)
+<figure><img src="../../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
