@@ -21,7 +21,7 @@ Ingresa a:\
     * **Tipo de detracción**
     * **Forma de pago de detracción**
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Agrega las órdenes pendientes a facturar**
 
@@ -31,7 +31,7 @@ Ingresa a:\
 
 > ✅ El sistema completará automáticamente los ítems en el detalle.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Completa o ajusta el detalle del servicio**
 
@@ -47,7 +47,7 @@ Si necesitas agregar ítems manualmente:
   * Tipo de afectación IGV
 * El sistema calculará automáticamente el IGV e importe total.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5. Previsualiza y finaliza**
 
@@ -55,7 +55,7 @@ Si necesitas agregar ítems manualmente:
 * Marca ✅ “**Confirmo que los datos llenados en el formulario son correctos**”.
 * Haz clic en **Previsualizar**.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **6. Emitir factura**
 
@@ -69,7 +69,7 @@ Si necesitas agregar ítems manualmente:
 1. **identifica la factura** a la que deseas emitir una Nota de Crédito
 2. Haz click en mas opciones y presionar emitir Nota de Crédito / Débito
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Se abrirá una ventana para seleccionar el **tipo de Nota de Crédito**
 2. <pre><code><strong>- ANULACIÓN DE LA OPERACIÓN
@@ -88,7 +88,7 @@ Si necesitas agregar ítems manualmente:
    </code></pre>
 3. Solo debes **escribir el motivo** de la emisión de la Nota de Crédito.
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Haz clic en **Emitir Comprobante** y espera hasta que se envíe a SUNAT.
 
