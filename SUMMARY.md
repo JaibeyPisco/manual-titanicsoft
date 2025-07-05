@@ -130,6 +130,7 @@
       * [MANTENIMIENTOS VEHICULOS](manual-del-cliente/carga-pesada/almacen-taller/mantenimientos-vehiculos.md)
       * [ORDENES DE COMPRA](manual-del-cliente/carga-pesada/almacen-taller/ordenes-de-compra.md)
       * [COMPRAS](manual-del-cliente/carga-pesada/almacen-taller/compras.md)
+      * [SALIDA DE ARTICULOS](manual-del-cliente/carga-pesada/almacen-taller/salida-de-articulos.md)
     * [TESORERÍA](manual-del-cliente/carga-pesada/tesoreria/README.md)
       * [CAJA](manual-del-cliente/carga-pesada/tesoreria/caja.md)
       * [CAJA RÁPIDA](manual-del-cliente/carga-pesada/tesoreria/caja-rapida.md)
