@@ -32,7 +32,7 @@ Al ingresar se muestra una lista de todos los requerimientos **pendientes de pag
 * Conductor o persona solicitante
 * Días restantes para el pago
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -62,7 +62,7 @@ Al ingresar se muestra una lista de todos los requerimientos **pendientes de pag
 
 ***
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Recomendaciones
 

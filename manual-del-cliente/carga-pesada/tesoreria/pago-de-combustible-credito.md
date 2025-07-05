@@ -20,7 +20,7 @@ Navega en el menú lateral a:\
 **Tesorería > Pago de Combustible (Crédito)**\
 Haz clic en el botón **“Nuevo”** para iniciar un nuevo pago.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -29,7 +29,7 @@ Haz clic en el botón **“Nuevo”** para iniciar un nuevo pago.
 * En la parte izquierda de la ventana, haz clic en el botón **“Agregar”**.
 * Se mostrará un listado de **vales pendientes de pago**.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Allí podrás ver:
   * La fecha del vale
@@ -40,7 +40,7 @@ Haz clic en el botón **“Nuevo”** para iniciar un nuevo pago.
 * Marca los vales que deseas pagar (puede ser uno o varios).
 * Luego haz clic en **“Agregar a Lista de Pagos”** para vincularlos al proceso de pago.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -53,7 +53,7 @@ Haz clic en el botón **“Nuevo”** para iniciar un nuevo pago.
 * **Cuenta bancaria de origen:** Indica desde qué cuenta de la empresa se hará el pago.
 * **Observación / Detalle:** Puedes agregar una breve nota si lo consideras necesario.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
