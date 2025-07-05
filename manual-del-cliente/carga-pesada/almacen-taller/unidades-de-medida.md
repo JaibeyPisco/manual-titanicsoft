@@ -11,7 +11,7 @@ El módulo “Unidades de Medida” permite registrar, editar y mantener actuali
 Desde el menú principal, dirigirse a:\
 **Almacén / Taller → Unidades de Medida**
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -33,7 +33,7 @@ Al ingresar al módulo, se mostrará una tabla con las unidades registradas. Cad
 
 1. Hacer clic en el botón **“+ Nuevo”** (esquina superior derecha).
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. En la ventana emergente “Nueva Unidad de Medida”, completar los siguientes campos:
 
@@ -42,7 +42,7 @@ Al ingresar al módulo, se mostrará una tabla con las unidades registradas. Cad
 
 6. Hacer clic en **“Guardar”** para registrar la unidad.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

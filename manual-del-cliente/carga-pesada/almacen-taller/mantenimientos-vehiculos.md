@@ -11,7 +11,7 @@ El módulo “Mantenimiento de Vehículos” permite registrar de manera ordenad
 Desde el menú principal, ingresar a:\
 **Almacén / Taller → Mantenimiento vehículos**
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -72,8 +72,6 @@ Una vez llenados todos los campos, la pantalla mostrará un resumen como:
 * Importe: 11
 * Kilometraje: 11 km
 * Problema: “CAMBIO DE ACEITE” → Resuelto: Si
-
-📌 _Ver imagen_
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 

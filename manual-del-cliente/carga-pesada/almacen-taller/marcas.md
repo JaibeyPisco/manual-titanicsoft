@@ -9,7 +9,7 @@ Las **marcas** permiten identificar el fabricante o procedencia de los artículo
 1. Dirígete al módulo **Almacén / Taller → Marcas**.
 2. Haz clic en el botón **➕ Nuevo**.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. En la ventana emergente, **digita el nombre de la marca**.
 2. Presiona el botón **Guardar**.

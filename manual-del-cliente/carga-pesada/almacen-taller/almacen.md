@@ -4,7 +4,7 @@
 
 Un **almacén** es un espacio físico donde se almacenan los **repuestos y demás artículos** utilizados por la empresa.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -128,6 +128,8 @@
       * [MARCAS](manual-del-cliente/carga-pesada/almacen-taller/marcas.md)
       * [UNIDADES DE MEDIDA](manual-del-cliente/carga-pesada/almacen-taller/unidades-de-medida.md)
       * [MANTENIMIENTOS VEHICULOS](manual-del-cliente/carga-pesada/almacen-taller/mantenimientos-vehiculos.md)
+      * [ORDENES DE COMPRA](manual-del-cliente/carga-pesada/almacen-taller/ordenes-de-compra.md)
+      * [COMPRAS](manual-del-cliente/carga-pesada/almacen-taller/compras.md)
     * [TESORERÍA](manual-del-cliente/carga-pesada/tesoreria/README.md)
       * [CAJA](manual-del-cliente/carga-pesada/tesoreria/caja.md)
       * [CAJA RÁPIDA](manual-del-cliente/carga-pesada/tesoreria/caja-rapida.md)

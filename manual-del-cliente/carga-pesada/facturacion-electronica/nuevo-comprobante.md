@@ -21,7 +21,7 @@ Ingresa a:\
     * **Tipo de detracción**
     * **Forma de pago de detracción**
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Agrega las órdenes pendientes a facturar**
 
@@ -31,7 +31,7 @@ Ingresa a:\
 
 > ✅ El sistema completará automáticamente los ítems en el detalle.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Completa o ajusta el detalle del servicio**
 
@@ -47,7 +47,7 @@ Si necesitas agregar ítems manualmente:
   * Tipo de afectación IGV
 * El sistema calculará automáticamente el IGV e importe total.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **5. Previsualiza y finaliza**
 
