@@ -119,6 +119,7 @@
       * [VALES DE COMBUSTIBLE](manual-del-cliente/carga-pesada/operaciones/vales-de-combustible.md)
       * [GASTOS OPERATIVOS](manual-del-cliente/carga-pesada/operaciones/gastos-operativos.md)
     * [ALMACEN - TALLER](manual-del-cliente/carga-pesada/almacen-taller.md)
+    * [ARTICULOS](manual-del-cliente/carga-pesada/articulos.md)
     * [TESORERÍA](manual-del-cliente/carga-pesada/tesoreria/README.md)
       * [CAJA](manual-del-cliente/carga-pesada/tesoreria/caja.md)
       * [CAJA RÁPIDA](manual-del-cliente/carga-pesada/tesoreria/caja-rapida.md)
