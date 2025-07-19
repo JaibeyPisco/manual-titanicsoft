@@ -52,3 +52,11 @@ Deberá esperar al día siguiente y solicitar a atención al cliente de nuestro 
 {% endcontent-ref %}
 
 Finalmente, ya estarás habilitado para empezar a facturar a través de nuestro sistema.
+
+
+
+{% hint style="info" %}
+* Creado: Jaibey Pisco
+* Fecha: 19:07-2025
+* Cargo: Ejecutivo de proyectos
+{% endhint %}
