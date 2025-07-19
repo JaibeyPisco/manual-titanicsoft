@@ -17,3 +17,11 @@ En este tutorial aprendemos a solucionar el inconveniente de que no puedes hacer
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 4. Si con esto no logras ingresar consultar al grupo de WhatsApp.
+
+
+
+{% hint style="info" %}
+* Creado: Jaibey Pisco
+* Fecha: 19:07-2025
+* Cargo: Ejecutivo de proyectos
+{% endhint %}

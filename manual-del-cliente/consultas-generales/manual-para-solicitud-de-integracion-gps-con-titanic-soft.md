@@ -44,3 +44,9 @@ Para realizar la integración, necesitamos conectarnos mediante API y obtener co
 * Ejemplos de **solicitudes y respuestas**
 * Diagramas de **flujo o secuencia**
 * Cualquier información adicional que facilite la implementación
+
+{% hint style="info" %}
+- Creado: Jaibey Pisco
+- Fecha: 19:07-2025
+- Cargo: Ejecutivo de proyectos
+{% endhint %}

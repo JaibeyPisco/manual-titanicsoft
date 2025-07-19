@@ -30,3 +30,9 @@ Es importante que configures correctamente tus series para evitar problemas con 
 Por otro lado, al finalizar debes compartir en Excel de la  parte inicial a postventa@ts.net.pe o al grupo de WhatsApp con el listado de series.
 
 Esperamos que este artículo te haya sido útil para configurar tus series de comprobantes electrónicos. Si tienes alguna duda adicional no dudes en consultarnos.
+
+{% hint style="info" %}
+* Creado: Jaibey Pisco
+* Fecha: 19:07-2025
+* Cargo: Ejecutivo de proyectos
+{% endhint %}

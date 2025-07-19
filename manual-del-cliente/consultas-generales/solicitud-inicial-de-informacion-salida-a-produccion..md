@@ -93,3 +93,9 @@ presiona clic en ingresar.
 &#x20;
 
 {% file src="../../.gitbook/assets/REGISTRO DE SERIES (1).xlsx" %}
+
+{% hint style="info" %}
+* Creado: Jaibey Pisco
+* Fecha: 19:07-2025
+* Cargo: Ejecutivo de proyectos
+{% endhint %}
