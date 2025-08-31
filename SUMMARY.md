@@ -4,6 +4,7 @@
   * [CONSULTAS GENERALES](manual-del-cliente/consultas-generales/README.md)
     * [El dispositivo no ha brindado la información de locación](manual-del-cliente/consultas-generales/el-dispositivo-no-ha-brindado-la-informacion-de-locacion.md)
     * [¿Cómo estructurar un ticket ?](manual-del-cliente/consultas-generales/como-estructurar-un-ticket.md)
+    * [¿Cómo renovar mi membresía?](manual-del-cliente/consultas-generales/como-renovar-mi-membresia.md)
     * [📄 ¿Como darse de alta a Nubefact OSE?](manual-del-cliente/consultas-generales/como-darse-de-alta-a-nubefact-ose.md)
     * [🆔 Configurar series a utilizar en Nubefact](manual-del-cliente/consultas-generales/configurar-series-a-utilizar-en-nubefact.md)
     * [🛰️ Manual para Solicitud de Integración GPS con Titanic Soft](manual-del-cliente/consultas-generales/manual-para-solicitud-de-integracion-gps-con-titanic-soft.md)

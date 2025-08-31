@@ -21,7 +21,7 @@ Ingresa a:\
     * **Tipo de detracción**
     * **Forma de pago de detracción**
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Agrega las órdenes pendientes a facturar**
 

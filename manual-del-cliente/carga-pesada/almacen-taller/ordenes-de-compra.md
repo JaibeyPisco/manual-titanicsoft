@@ -2,7 +2,7 @@
 
 Una **orden de compra** es una solicitud formal previa a la adquisición de un artículo. Permite que el requerimiento pase por un proceso de **evaluación y aprobación** antes de ser ejecutado.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

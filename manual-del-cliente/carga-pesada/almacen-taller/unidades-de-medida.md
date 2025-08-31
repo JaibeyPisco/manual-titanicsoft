@@ -11,7 +11,7 @@ El módulo “Unidades de Medida” permite registrar, editar y mantener actuali
 Desde el menú principal, dirigirse a:\
 **Almacén / Taller → Unidades de Medida**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
